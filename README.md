@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working at The Org in Copenhagen
+- 🔭 I’m currently working at Shape Games in Copenhagen
 - 👯 I’m looking to collaborate on anything FE related
 - 🕵️‍♂️ Pronouns: He/him
 
